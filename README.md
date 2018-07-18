@@ -1,4 +1,3 @@
 # 583134485.github.io
 
-
-blog.chiun.work
+http://blog.chiun.work/
